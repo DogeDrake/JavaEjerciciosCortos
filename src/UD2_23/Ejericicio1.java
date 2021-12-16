@@ -2,6 +2,11 @@
 al segundo informar su suma y diferencia, en caso contrario informar el
 producto y la división del primero respecto al segundo.
  */
+
+//Todos los ejercicios han sido hechos en conjunto por:
+//Luis Gonzalez
+//Guillermo Vallejo
+//Martin Cardona
 package UD2_23;
 
 import java.util.Scanner;
